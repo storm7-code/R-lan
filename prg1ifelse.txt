@@ -11,3 +11,6 @@ if(mark>25){
 }else{
   print("sorry you failed")
 }
+# Switch Statement
+
+Switch (2," Kylashnath", "Shajeeth", "Maneesh," "Sunish")
