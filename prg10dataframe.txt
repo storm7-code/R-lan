@@ -1,0 +1,8 @@
+#data frames
+emp.data<-data.frame(
+  emp_id=c(1:5),
+  emp_name=c("rick","mohan","kishore","harish","raj"),
+  salary=c(128.8,348.8,430.7,523.6,678.2),
+  start_date=as.Date(c("2013-01-20","2015-04-03","2015-08-10","2018-04-24","2017-09-30")),
+  stringAsFactors=FALSE)
+print(emp.data)

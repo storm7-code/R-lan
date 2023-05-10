@@ -1,0 +1,13 @@
+#if
+age<-20
+if(age>=18){
+  print("you are eligible for voting")
+}
+
+#if else
+mark<-22
+if(mark>25){
+  print("you get passed")
+}else{
+  print("sorry you failed")
+}

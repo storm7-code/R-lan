@@ -1,0 +1,10 @@
+#matrices
+x=matrix(1:12,ncol=3)
+y=matrix(13:24,ncol=3)
+print("matrix-1")
+print(x)
+print("matrix-2")
+print👍
+result=rbind(x,y)
+print("after concatenating two given matrices:")
+print(result)

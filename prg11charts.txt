@@ -1,0 +1,7 @@
+#charts
+x<-c(2.0,5.5,6.3,7.5,8.0)
+bar plot(x)
+pie(x)
+hist(x)
+box plot(x)
+plot(x,type="0")

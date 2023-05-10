@@ -1,0 +1,8 @@
+#factors
+music_genre<-factor(c("jazz","rock","classic","classic","pop","jazz","rock","jazz"))
+music_genre
+levels(music_genre)
+length(music_genre)
+music_genre[3]
+music_genre[3]<-"pop"
+music_genre[3]

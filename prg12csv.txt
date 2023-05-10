@@ -1,0 +1,5 @@
+#working with csv files
+csv1<-read.csv(file='C:/Users/user/Desktop/employee.csv')
+csv1
+print(ncol(csv1))
+max(csv1$salary)

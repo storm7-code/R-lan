@@ -1,0 +1,15 @@
+#list
+thislist<-list("apple","banana","cherry")
+thislist
+thislist<-list("apple","banana","cherry")
+thislist[1]
+thislist<-list("apple","banana","cherry")
+thislist[1]
+thislist<-list("apple","banana","cherry")
+length(thislist)
+thislist<-list("apple","banana","cherry")
+"apple"%in% thislist
+thislist<-list("apple","banana","cherry")
+append(thislist,"orange")
+thislist<-list("apple","banana","cherry")
+newlist<-thislist[-1]
